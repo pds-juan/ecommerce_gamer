@@ -1,1 +1,1 @@
-GET http://localhost:4000/api/ping
+GET http://localhost:4000/ping
