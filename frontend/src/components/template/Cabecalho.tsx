@@ -8,7 +8,7 @@ export default function Cabecalho() {
       className="flex flex-col h-20"
       style={{
         background:
-          "linear-gradient(90deg, #14002D 0%, #42093 50%, #14002D 100%)",
+          "linear-gradient(90deg, #14002D 0%, #420093 50%, #14002D 100%)",
       }}
     >
       <div className="flex-1 container flex flex-col justify-center">
