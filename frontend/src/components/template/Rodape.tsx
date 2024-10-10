@@ -31,7 +31,7 @@ export default function Rodape() {
             </div>
           </div>
         </div>
-        <div className="flex flex-col md:flex-row items-center gap-1 5 justify-between">
+        <div className="flex flex-col md:flex-row items-center gap-1.5 justify-between">
           <div className="flex gap-2">
             <IconBrandYoutube size={28} stroke={1} />
             <IconBrandInstagram size={28} stroke={1} />
